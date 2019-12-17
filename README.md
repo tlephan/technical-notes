@@ -15,6 +15,7 @@
 * [Cookies, document.cookie](https://javascript.info/cookie)
 * [Understanding Hoisting in JavaScript](https://scotch.io/tutorials/understanding-hoisting-in-javascript)
 * [JavaScript Design Patterns](https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15)
+* [JavaScript Finished Proposals](https://github.com/tc39/proposals/blob/master/finished-proposals.md)
 
 ## Node.js
 
