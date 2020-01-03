@@ -29,6 +29,7 @@
 * [Simplify your JavaScript – Use .map(), .reduce(), and .filter()](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
 * [Optional Parameters in Javascript](https://www.markhansen.co.nz/javascript-optional-parameters/)
 * [When (and why) you should use ES6 arrow functions — and when you shouldn’t](https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/)
+* [Some simple and amazing JavaScript tricks](https://levelup.gitconnected.com/some-simple-and-amazing-javascript-tricks-292e1962b1f6)
 
 ### Express.js
 
