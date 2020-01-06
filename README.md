@@ -28,6 +28,7 @@
 * [[Video] JavaScript Loops - Code This, Not That](https://www.youtube.com/watch?v=x7Xzvm0iLCI)
 * [[Video] JavaScript Pro Tips - Code This, NOT That](https://www.youtube.com/watch?v=Mus_vwhTCq0)
 * [[Video] The Async Await Episode I Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)
+* [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
 
 ## Node.js
 
