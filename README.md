@@ -23,6 +23,7 @@
 * [Simplify your JavaScript – Use .map(), .reduce(), and .filter()](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
 * [Optional Parameters in Javascript](https://www.markhansen.co.nz/javascript-optional-parameters/)
 * [When (and why) you should use ES6 arrow functions — and when you shouldn’t](https://www.freecodecamp.org/news/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26/)
+* [The Difference Between Regular Functions and Arrow Functions](https://medium.com/better-programming/difference-between-regular-functions-and-arrow-functions-f65639aba256)
 * [Some simple and amazing JavaScript tricks](https://levelup.gitconnected.com/some-simple-and-amazing-javascript-tricks-292e1962b1f6)
 * [[Video] What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 * [[Video] JavaScript Loops - Code This, Not That](https://www.youtube.com/watch?v=x7Xzvm0iLCI)
