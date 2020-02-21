@@ -31,6 +31,7 @@
 * [[Video] The Async Await Episode I Promised](https://www.youtube.com/watch?v=vn3tm0quoqE)
 * [You Don't Know JS Yet (book series)](https://github.com/getify/You-Dont-Know-JS)
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+* [Object Oriented Programming in JavaScript – Explained with Examples](https://www.freecodecamp.org/news/how-javascript-implements-oop/)
 
 ## Node.js
 
