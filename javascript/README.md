@@ -1,13 +1,6 @@
-# JavaScript Notes
+## JavaScript
 
-### Table of Content
-- [Introduction](#introduction)
-- [Advanced](#advanced)
-- [Node.js](#nodejs)
-  - [Express.js](#expressjs)
-- [React.js](#reactjs)
-
-## Introduction
+### Introduction
 
 * [Introduction to JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
 * [Cookies, document.cookie](https://javascript.info/cookie)
@@ -15,7 +8,7 @@
 * [JavaScript Design Patterns](https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15)
 * [JavaScript Finished Proposals](https://github.com/tc39/proposals/blob/master/finished-proposals.md)
 
-## Advanced
+### Advanced
 
 * [ES6 — Set vs Array — What and when?](https://medium.com/front-end-weekly/es6-set-vs-array-what-and-when-efc055655e1a)
 * [Simplify your JavaScript – Use .map(), .reduce(), and .filter()](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
@@ -31,7 +24,7 @@
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 * [Object Oriented Programming in JavaScript – Explained with Examples](https://www.freecodecamp.org/news/how-javascript-implements-oop/)
 
-## Node.js
+### Node.js
 
 * [Understanding Node.js Event-Driven Architecture](https://www.freecodecamp.org/news/understanding-node-js-event-driven-architecture-223292fcbc2d/)
 * [Requiring modules in Node.js: Everything you need to know](https://www.freecodecamp.org/news/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8/)
@@ -45,4 +38,5 @@
 * [Production Best Practices: Security](https://expressjs.com/en/advanced/best-practice-security.html)
 * [Health Checks and Graceful Shutdown](https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html)
 
-## React.js
+### React.js
+TBD
