@@ -14,4 +14,4 @@ Git is the free and open source distributed version control system.
 
 ### Book
 
-* [Pro Git](https://git-scm.com/book/en/v2)
+* [Pro Git - Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
