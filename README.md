@@ -1,6 +1,4 @@
-# Javascript Clan
-
-> A place to collect useful resources about Javascript
+# Technical Notes
 
 ### Table of Content
 - [Introduction](#introduction)
