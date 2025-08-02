@@ -1,16 +1,8 @@
 ## Git
 
-**Table of Content**
-
-- [Introduction](#introduction)
-- [Advanced](#advanced)
-- [Book](#book)
-
-### Introduction
-
 Git is the free and open source distributed version control system.
 
-* [Github Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
+[Github Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
 
 ### Advanced
 
